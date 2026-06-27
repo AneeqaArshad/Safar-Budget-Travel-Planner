@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+backend/venv/
+
+# Environment variables
+backend/.env
+
+# SQLite database
+backend/travel_planner.db
+backend/instance/
+
+# Chroma Vector Database
+backend/chroma_db/
+
+# Memory Storage
+backend/memory_db/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

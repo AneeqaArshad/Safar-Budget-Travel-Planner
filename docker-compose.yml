@@ -1,0 +1,20 @@
+services:
+  safar-app:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+
+    container_name: safar_ai_travel_planner
+
+    ports:
+      - "5000:5000"
+
+    env_file:
+      - ./backend/.env
+
+    volumes:
+      - ./backend/data:/app/data
+      - ./backend/chroma_db:/app/chroma_db
+      - ./backend/memory_db:/app/memory_db
+      - ./backend/instance:/app/instance
+    restart: unless-stopped

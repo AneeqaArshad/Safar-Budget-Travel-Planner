@@ -1,0 +1,65 @@
+name,city,category,cost,popularity,description,rating,time_required,best_time,image_url
+Pakistan Monument,Islamabad,historical,0,famous,National monument representing Pakistan,4.7,2,Morning,/static/images/places/pakistan-monument.jpg
+Pakistan Monument Museum,Islamabad,historical,200,famous,Museum about Pakistan history,4.5,2,Morning,/static/images/places/pakistan-monument-museum.jpg
+Lok Virsa Museum,Islamabad,historical,100,famous,Cultural heritage museum,4.6,2,Morning,/static/images/places/lok-virsa-museum.jpg
+Shah Allah Ditta Caves,Islamabad,historical,0,famous,Ancient caves and village,4.4,2,Morning,/static/images/places/shah-allah-ditta-caves.jpg
+Faisal Mosque,Islamabad,historical,0,famous,Largest and iconic mosque,4.9,2,Morning,/static/images/places/faisal-mosque.jpg
+Margalla Hills National Park,Islamabad,natural,0,famous,Popular hiking and nature area,4.8,2,Morning,/static/images/places/margalla-hills-national-park.jpg
+Daman-e-Koh,Islamabad,natural,0,famous,Scenic viewpoint,4.7,2,Morning,/static/images/places/daman-e-koh.jpg
+Pir Sohawa,Islamabad,natural,0,famous,Hilltop tourist destination,4.6,2,Morning,/static/images/places/pir-sohawa.jpg
+Rawal Lake,Islamabad,natural,300,famous,Lake for boating and recreation,4.5,2,Morning,/static/images/places/rawal-lake.jpg
+Shakarparian,Islamabad,natural,0,famous,Hill park with city views,4.4,2,Morning,/static/images/places/shakarparian.jpg
+The Monal Islamabad,Islamabad,food,2500,famous,Famous hilltop restaurant,4.5,2,Morning,/static/images/places/the-monal-islamabad.jpg
+La Montana,Islamabad,food,2000,famous,Restaurant with mountain views,4.3,2,Morning,/static/images/places/la-montana.jpg
+Melody Food Street,Islamabad,food,1000,famous,Popular local food street,4.4,2,Morning,/static/images/places/melody-food-street.jpg
+F-6 & F-7 Markaz Cafes,Islamabad,food,1200,famous,Cafe and dining area,4.3,2,Morning,/static/images/places/f6-f7-markaz-cafes.jpg
+Centaurus Mall,Islamabad,shopping,0,famous,Large shopping mall,4.5,2,Morning,/static/images/places/centaurus-mall.jpg
+Safa Gold Mall,Islamabad,shopping,0,famous,Modern shopping center,4.4,2,Morning,/static/images/places/safa-gold-mall.jpg
+Jinnah Super Market,Islamabad,shopping,0,famous,Popular commercial market,4.3,2,Morning,/static/images/places/jinnah-super-market.jpg
+Murree Church,Murree,historical,0,famous,Historic church building,4.2,2,Morning,/static/images/places/murree-church.jpg
+Old Colonial Buildings,Murree,historical,0,famous,British-era architecture,4.1,2,Morning,/static/images/places/old-colonial-buildings.jpg
+Ghora Gali Railway History Area,Murree,historical,0,famous,Historic railway location,4.0,2,Morning,/static/images/places/ghora-gali-railway-history-area.jpg
+Mall Road Murree,Murree,natural,0,famous,Main tourist road,4.5,2,Morning,/static/images/places/mall-road-murree.jpg
+Kashmir Point,Murree,natural,0,famous,Mountain viewpoint,4.7,2,Morning,/static/images/places/kashmir-point.jpg
+Pindi Point,Murree,natural,0,famous,Chairlift and viewpoint,4.6,2,Morning,/static/images/places/pindi-point.jpg
+Patriata,Murree,natural,1200,famous,Cable car and chairlift,4.8,2,Morning,/static/images/places/patriata.jpg
+Nathia Gali,Murree,natural,0,famous,Beautiful hill station,4.9,2,Morning,/static/images/places/nathia-gali.jpg
+Bhurban,Murree,natural,0,famous,Resort and scenic area,4.5,2,Morning,/static/images/places/bhurban.jpg
+Mall Road Restaurants,Murree,food,1000,famous,Street food and restaurants,4.3,2,Morning,/static/images/places/mall-road-restaurants.jpg
+Bhurban Resorts Restaurants,Murree,food,2500,famous,Fine dining in resorts,4.4,2,Morning,/static/images/places/bhurban-resorts-restaurants.jpg
+Kashmiri Tea Cafes,Murree,food,800,famous,Traditional tea spots,4.5,2,Morning,/static/images/places/kashmiri-tea-cafes.jpg
+Patriata Food Stalls,Murree,food,500,famous,Local snacks and stalls,4.2,2,Morning,/static/images/places/patriata-food-stalls.jpg
+Patriata Chair Lift,Murree,adventure,1200,famous,Chairlift ride,4.7,2,Morning,/static/images/places/patriata-chair-lift.jpg
+Ayubia Pipeline Track,Murree,adventure,0,famous,Famous hiking track,4.8,2,Morning,/static/images/places/ayubia-pipeline-track.jpg
+Hiking Trails,Murree,adventure,0,famous,Nature hiking routes,4.6,2,Morning,/static/images/places/hiking-trails.jpg
+Horse Riding,Murree,adventure,1500,famous,Horse riding activity,4.3,2,Morning,/static/images/places/horse-riding.jpg
+Badshahi Mosque,Lahore,historical,0,famous,Historic Mughal mosque,4.9,2,Morning,/static/images/places/badshahi-mosque.jpg
+Lahore Fort,Lahore,historical,500,famous,UNESCO heritage site,4.8,2,Morning,/static/images/places/lahore-fort.jpg
+Minar-e-Pakistan,Lahore,historical,0,famous,National monument,4.7,2,Morning,/static/images/places/minar-e-pakistan.jpg
+Shalimar Gardens,Lahore,historical,500,famous,Historic Mughal gardens,4.7,2,Morning,/static/images/places/shalimar-gardens.jpg
+Wazir Khan Mosque,Lahore,historical,0,famous,Famous tiled mosque,4.8,2,Morning,/static/images/places/wazir-khan-mosque.jpg
+Tomb of Jahangir,Lahore,historical,200,famous,Mughal emperor tomb,4.6,2,Morning,/static/images/places/tomb-of-jahangir.jpg
+Chauburji,Lahore,historical,0,famous,Historic Mughal monument,4.3,2,Morning,/static/images/places/chauburji.jpg
+Lahore Museum,Lahore,historical,100,famous,Historic museum,4.5,2,Morning,/static/images/places/lahore-museum.jpg
+Delhi Gate,Lahore,historical,0,famous,Old city gate,4.4,2,Morning,/static/images/places/delhi-gate.jpg
+Jallo Park,Lahore,natural,0,famous,Large family park,4.5,2,Morning,/static/images/places/jallo-park.jpg
+Lahore Zoo,Lahore,natural,300,famous,Historic zoo,4.3,2,Morning,/static/images/places/lahore-zoo.jpg
+Race Course Park (Jilani Park),Lahore,natural,0,famous,Public park,4.4,2,Morning,/static/images/places/race-course-park-(jilani-park).jpg
+Greater Iqbal Park,Lahore,natural,0,famous,Large urban park,4.5,2,Morning,/static/images/places/greater-iqbal-park.jpg
+Fort Road Food Street,Lahore,food,1500,famous,Traditional Lahori food,4.7,2,Morning,/static/images/places/fort-road-food-street.jpg
+Gawalmandi Food Street,Lahore,food,1200,famous,Famous food street,4.6,2,Morning,/static/images/places/gawalmandi-food-street.jpg
+Anarkali Food Area,Lahore,food,800,famous,Street food area,4.4,2,Morning,/static/images/places/anarkali-food-area.jpg
+Lakshmi Chowk,Lahore,food,1000,famous,Traditional Lahori dishes,4.5,2,Morning,/static/images/places/lakshmi-chowk.jpg
+MM Alam Road Restaurants,Lahore,food,2500,famous,Modern restaurants,4.5,2,Morning,/static/images/places/mm-alam-restaurant.jpg
+Butt Karahi,Lahore,food,1800,famous,Popular karahi restaurant,4.7,2,Morning,/static/images/places/butt-karahi.jpg
+Phajja Siri Paye,Lahore,food,1200,famous,Traditional breakfast spot,4.6,2,Morning,/static/images/places/phajja-siri-paye.jpg
+Arif Chatkhara,Lahore,food,700,famous,Famous snacks and chaat,4.4,2,Morning,/static/images/places/arif-chatkhara.jpg
+Anarkali Bazaar,Lahore,shopping,0,famous,Historic shopping market,4.5,2,Morning,/static/images/places/anarkali-bazaar.jpg
+Liberty Market,Lahore,shopping,0,famous,Popular shopping area,4.4,2,Morning,/static/images/places/liberty-market.jpg
+Emporium Mall,Lahore,shopping,0,famous,Modern shopping mall,4.6,2,Morning,/static/images/places/emporium-mall.jpg
+Packages Mall,Lahore,shopping,0,famous,Large shopping center,4.5,2,Morning,/static/images/places/packages-mall.jpg
+Sozo Water Park,Lahore,adventure,2000,famous,Water park,4.2,2,Morning,/static/images/places/sozo-water-park.jpg
+Joyland,Lahore,adventure,1500,famous,Amusement park,4.3,2,Morning,/static/images/places/joyland.jpg
+Winterland Lahore,Lahore,adventure,2500,famous,Indoor snow park,4.4,2,Morning,/static/images/places/winterland-lahore.jpg
+Go-kart Tracks,Lahore,adventure,2000,famous,Kart racing activity,4.5,2,Morning,/static/images/places/go-kart-tracks.jpg
+Escape Rooms,Lahore,adventure,1800,famous,Puzzle adventure games,4.3,2,Morning,/static/images/places/escape-rooms.jpg

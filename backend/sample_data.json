@@ -1,0 +1,148 @@
+{
+  "description": "Sample data for the Travel Planner database. Import via the seed script or manually.",
+  "cities": [
+    { "id": 1, "name": "Lahore" },
+    { "id": 2, "name": "Islamabad" },
+    { "id": 3, "name": "Murree" }
+  ],
+  "places": [
+    {
+      "id": 1, "name": "Badshahi Mosque", "city_id": 1,
+      "category": "historical", "cost": 0, "popularity": "famous",
+      "description": "One of the world's largest mosques, a Mughal masterpiece built in 1673.",
+      "rating": 4.9, "time_required": 2, "best_time": "Morning"
+    },
+    {
+      "id": 2, "name": "Lahore Fort (Shahi Qila)", "city_id": 1,
+      "category": "historical", "cost": 500, "popularity": "famous",
+      "description": "UNESCO World Heritage Site showcasing Mughal architecture over 1,000 years.",
+      "rating": 4.8, "time_required": 3, "best_time": "Morning"
+    },
+    {
+      "id": 3, "name": "Shalimar Gardens", "city_id": 1,
+      "category": "nature", "cost": 300, "popularity": "famous",
+      "description": "Magnificent Mughal terraced gardens with fountains and marble pavilions.",
+      "rating": 4.6, "time_required": 2, "best_time": "Evening"
+    },
+    {
+      "id": 4, "name": "Food Street Gawalmandi", "city_id": 1,
+      "category": "food", "cost": 800, "popularity": "famous",
+      "description": "Iconic food street famous for traditional Lahori cuisine and street food.",
+      "rating": 4.7, "time_required": 2, "best_time": "Evening"
+    },
+    {
+      "id": 5, "name": "Wazir Khan Mosque", "city_id": 1,
+      "category": "historical", "cost": 0, "popularity": "hidden",
+      "description": "Hidden gem with stunning tilework — less crowded than Badshahi Mosque.",
+      "rating": 4.8, "time_required": 1, "best_time": "Morning"
+    },
+    {
+      "id": 6, "name": "Anarkali Bazaar", "city_id": 1,
+      "category": "shopping", "cost": 500, "popularity": "famous",
+      "description": "Pakistan's oldest surviving bazaar with traditional handicrafts and textiles.",
+      "rating": 4.4, "time_required": 2, "best_time": "Afternoon"
+    },
+    {
+      "id": 7, "name": "Lahore Museum", "city_id": 1,
+      "category": "historical", "cost": 200, "popularity": "famous",
+      "description": "Largest museum in Pakistan housing Gandhara sculptures and Mughal artifacts.",
+      "rating": 4.5, "time_required": 2, "best_time": "Morning"
+    },
+    {
+      "id": 8, "name": "Chauburji", "city_id": 1,
+      "category": "historical", "cost": 0, "popularity": "hidden",
+      "description": "Underrated 17th-century Mughal gateway with intricate tilework.",
+      "rating": 4.3, "time_required": 1, "best_time": "Morning"
+    },
+    {
+      "id": 9, "name": "Faisal Mosque", "city_id": 2,
+      "category": "historical", "cost": 0, "popularity": "famous",
+      "description": "One of the largest mosques in the world, nestled against the Margalla Hills.",
+      "rating": 4.9, "time_required": 2, "best_time": "Morning"
+    },
+    {
+      "id": 10, "name": "Margalla Hills Trail 3", "city_id": 2,
+      "category": "nature", "cost": 0, "popularity": "famous",
+      "description": "Most popular hiking trail offering panoramic views of Islamabad city.",
+      "rating": 4.7, "time_required": 3, "best_time": "Morning"
+    },
+    {
+      "id": 11, "name": "Pakistan Monument", "city_id": 2,
+      "category": "historical", "cost": 100, "popularity": "famous",
+      "description": "National monument shaped like a blossoming flower representing all provinces.",
+      "rating": 4.6, "time_required": 1, "best_time": "Evening"
+    },
+    {
+      "id": 12, "name": "Lok Virsa Museum", "city_id": 2,
+      "category": "historical", "cost": 200, "popularity": "hidden",
+      "description": "Fascinating folk heritage museum showcasing Pakistan's diverse cultural traditions.",
+      "rating": 4.5, "time_required": 2, "best_time": "Morning"
+    },
+    {
+      "id": 13, "name": "Rawal Lake", "city_id": 2,
+      "category": "nature", "cost": 0, "popularity": "famous",
+      "description": "Scenic reservoir with boating, bird watching, and serene walking paths.",
+      "rating": 4.4, "time_required": 2, "best_time": "Afternoon"
+    },
+    {
+      "id": 14, "name": "Daman-e-Koh", "city_id": 2,
+      "category": "nature", "cost": 0, "popularity": "famous",
+      "description": "Hilltop viewpoint offering breathtaking views of Islamabad and surroundings.",
+      "rating": 4.8, "time_required": 2, "best_time": "Evening"
+    },
+    {
+      "id": 15, "name": "Saidpur Village", "city_id": 2,
+      "category": "historical", "cost": 300, "popularity": "hidden",
+      "description": "Ancient village turned arts village with galleries, cafes, and heritage homes.",
+      "rating": 4.5, "time_required": 2, "best_time": "Afternoon"
+    },
+    {
+      "id": 16, "name": "F-9 Park (Fatima Jinnah Park)", "city_id": 2,
+      "category": "nature", "cost": 0, "popularity": "famous",
+      "description": "Largest park in Islamabad — perfect for families and evening walks.",
+      "rating": 4.3, "time_required": 1, "best_time": "Evening"
+    },
+    {
+      "id": 17, "name": "Mall Road Murree", "city_id": 3,
+      "category": "shopping", "cost": 500, "popularity": "famous",
+      "description": "Main tourist street with shops, cafes, and iconic cable car access.",
+      "rating": 4.5, "time_required": 2, "best_time": "Afternoon"
+    },
+    {
+      "id": 18, "name": "Pindi Point", "city_id": 3,
+      "category": "nature", "cost": 200, "popularity": "famous",
+      "description": "Famous viewpoint and chairlift with panoramic views of the Himalayan foothills.",
+      "rating": 4.6, "time_required": 2, "best_time": "Morning"
+    },
+    {
+      "id": 19, "name": "Kashmir Point", "city_id": 3,
+      "category": "nature", "cost": 0, "popularity": "famous",
+      "description": "Stunning viewpoint offering views across valleys and pine forests.",
+      "rating": 4.7, "time_required": 1, "best_time": "Morning"
+    },
+    {
+      "id": 20, "name": "Bhurban Village", "city_id": 3,
+      "category": "nature", "cost": 0, "popularity": "hidden",
+      "description": "Quiet, lush pine forest village — a peaceful escape from busy Murree.",
+      "rating": 4.6, "time_required": 2, "best_time": "Morning"
+    },
+    {
+      "id": 21, "name": "GPO Chowk", "city_id": 3,
+      "category": "historical", "cost": 0, "popularity": "famous",
+      "description": "Historic central square with colonial-era architecture and local food stalls.",
+      "rating": 4.2, "time_required": 1, "best_time": "Evening"
+    },
+    {
+      "id": 22, "name": "Patriata (New Murree)", "city_id": 3,
+      "category": "nature", "cost": 400, "popularity": "famous",
+      "description": "Pine-forested hill station with chairlift rides and scenic forest walks.",
+      "rating": 4.5, "time_required": 3, "best_time": "Morning"
+    },
+    {
+      "id": 23, "name": "Nathiagali", "city_id": 3,
+      "category": "nature", "cost": 0, "popularity": "hidden",
+      "description": "Hidden gem with dense forests and trails rarely visited by tourists.",
+      "rating": 4.8, "time_required": 3, "best_time": "Morning"
+    }
+  ]
+}
