@@ -46,20 +46,17 @@ The following screenshots illustrate the complete workflow of Safar, from user a
 
 ### Chat Planner
 
-![Planner](docs\Screenshots\chat.png)
-
+![Chat](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/chat.png)
 ---
 
 ### Generated Itinerary
 
-![Itinerary](docs\Screenshots\itinerary-overview.png)
-
+![Itinerary](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/itinerary-overview.png)
 ---
 
 ### Budget Dashboard
 
-![Budget](docs\Screenshots\budget-dashboard.png)
-
+![Budget Dashboard](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/budget-dashboard.png)
 ---
 
 </div>
@@ -220,17 +217,15 @@ docker compose up --build
 
 ### Create Account
 
-![Signup](docs\Screenshots\signup.png)
-
+![Signup](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/signup.png)
 ### Login
 
-![Login](docs\Screenshots\login.png)
-
+![Login](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/login.png)
 ---
 
 ## AI Chat Planner
 
-![Chat](docs\Screenshots\chat.png)
+![Chat](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/chat.png)
 
 Natural language travel planning interface.
 
@@ -238,7 +233,7 @@ Natural language travel planning interface.
 
 ## Trip Confirmation
 
-![Confirmation](docs\Screenshots\confirmation.png)
+![Confirmation](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/confirmation.png)
 
 User can review trip details before itinerary generation.
 
@@ -246,7 +241,7 @@ User can review trip details before itinerary generation.
 
 ## Generated Itinerary
 
-![Itinerary-Overview](docs\Screenshots\itinerary-overview.png)
+![Itinerary](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/itinerary-overview.png)
 
 Overview of the generated trip.
 
@@ -254,8 +249,9 @@ Overview of the generated trip.
 
 ## Day-wise Planning
 
-![Day-1](docs\Screenshots\day1.png)
-![Day-2](docs\Screenshots\day2.png)
+![Day 1](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/day1.png)
+
+![Day 2](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/day2.png)
 
 Each day contains:
 
@@ -269,7 +265,7 @@ Each day contains:
 
 ## Budget Dashboard
 
-![Budget-Dashboard](docs\Screenshots\budget-dashboard.png)
+![Budget Dashboard](https://raw.githubusercontent.com/AneeqaArshad/Safar-Budget-Travel-Planner/main/docs/Screenshots/budget-dashboard.png)
 
 Detailed breakdown of travel expenses.
 
